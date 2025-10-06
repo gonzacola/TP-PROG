@@ -1,0 +1,21 @@
+{
+  "name": "tp-programacion",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Registro de Vehiculos en Estacionamiento.",
+  "main": "registro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzacola/TP-PROG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzacola/TP-PROG/issues"
+  },
+  "homepage": "https://github.com/gonzacola/TP-PROG#readme"
+}
